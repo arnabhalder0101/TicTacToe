@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TIC TAC TOE</string>
+    <string name="playerx">Name: Player X (1st)</string>
+    <string name="playery">Name: Player O (2nd)</string>
+    <string name="purpleLine">-----------------------------------------------------------</string>
+    <string name="purpleLineV">------------------------------------</string>
+    <string name="redLineDiagonal">-----------------------------------------------------------------</string>
+    <string name="redLineVertical">-----------------------------------------</string>
+</resources>
